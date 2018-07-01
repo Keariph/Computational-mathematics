@@ -1,0 +1,10 @@
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\obj\Debug\Interpolation.Form1.resources
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.cache
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\bin\Debug\Interpolation.exe.config
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\bin\Debug\Interpolation.exe
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\bin\Debug\Interpolation.pdb
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\obj\Debug\Interpolation.exe
+C:\Users\Evil Spirit\source\repos\Gauss\Interpolation\obj\Debug\Interpolation.pdb
