@@ -1,0 +1,3 @@
+﻿  Polynomial_interpolation.cpp
+c:\users\evil spirit\source\repos\gauss\polynomial_interpolation\polynomial_interpolation.cpp(12): warning C4101: buf: неиспользованная локальная переменная
+  Polynomial_interpolation.vcxproj -> C:\Users\Evil Spirit\source\repos\Gauss\Debug\Polynomial_interpolation.exe

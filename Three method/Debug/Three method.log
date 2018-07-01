@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Three method.cpp
+c:\users\evil spirit\source\repos\gauss\three method\three method.cpp(93): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Three method.vcxproj -> C:\Users\Evil Spirit\source\repos\Gauss\Debug\Three method.exe
