@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  MPI.cpp
+c:\users\evil spirit\source\repos\gauss\mpi\mpi.cpp(38): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\evil spirit\source\repos\gauss\mpi\mpi.cpp(43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\evil spirit\source\repos\gauss\mpi\mpi.cpp(173): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  MPI.vcxproj -> C:\Users\Evil Spirit\source\repos\Gauss\Debug\MPI.exe
