@@ -1,0 +1,20 @@
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\bin\Debug\Dolbanny_kyrsach.exe.config
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\bin\Debug\Dolbanny_kyrsach.exe
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\bin\Debug\Dolbanny_kyrsach.pdb
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.csprojResolveAssemblyReference.cache
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.Form1.resources
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.Properties.Resources.resources
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.csproj.GenerateResource.cache
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.csproj.CoreCompileInputs.cache
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.exe
+C:\Users\Evil Spirit\source\repos\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.pdb
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\bin\Debug\Dolbanny_kyrsach.exe.config
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\bin\Debug\Dolbanny_kyrsach.exe
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\bin\Debug\Dolbanny_kyrsach.pdb
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.csprojResolveAssemblyReference.cache
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.Form1.resources
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.Properties.Resources.resources
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.csproj.GenerateResource.cache
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.csproj.CoreCompileInputs.cache
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.exe
+C:\Users\TakBled\Desktop\Gauss\Dolbanny_kyrsach\obj\Debug\Dolbanny_kyrsach.pdb
