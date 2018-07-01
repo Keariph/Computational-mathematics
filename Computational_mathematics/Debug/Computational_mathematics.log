@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Computational_mathematics.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  stdafx.cpp
+  Gauss.cpp
+c:\users\evil spirit\source\repos\gauss\computational_mathematics\gauss.cpp(150): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\evil spirit\source\repos\gauss\computational_mathematics\gauss.cpp(162): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Computational_mathematics.vcxproj -> C:\Users\Evil Spirit\source\repos\Gauss\Debug\Gauss.exe
