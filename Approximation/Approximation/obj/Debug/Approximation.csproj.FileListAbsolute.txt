@@ -1,0 +1,20 @@
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\bin\Debug\Approximation.exe.config
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\bin\Debug\Approximation.exe
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\bin\Debug\Approximation.pdb
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\obj\Debug\Approximation.csprojResolveAssemblyReference.cache
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\obj\Debug\Approximation.Form1.resources
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\obj\Debug\Approximation.Properties.Resources.resources
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\obj\Debug\Approximation.csproj.GenerateResource.cache
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\obj\Debug\Approximation.csproj.CoreCompileInputs.cache
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\obj\Debug\Approximation.exe
+C:\Users\TakBled\Desktop\Ruban\Approximation\Approximation\obj\Debug\Approximation.pdb
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\bin\Debug\Approximation.exe.config
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\bin\Debug\Approximation.exe
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\bin\Debug\Approximation.pdb
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\obj\Debug\Approximation.csprojResolveAssemblyReference.cache
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\obj\Debug\Approximation.Form1.resources
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\obj\Debug\Approximation.Properties.Resources.resources
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\obj\Debug\Approximation.csproj.GenerateResource.cache
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\obj\Debug\Approximation.csproj.CoreCompileInputs.cache
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\obj\Debug\Approximation.exe
+C:\Users\Evil Spirit\source\repos\Gauss\Approximation\Approximation\obj\Debug\Approximation.pdb
